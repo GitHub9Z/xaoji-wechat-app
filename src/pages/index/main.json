@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "i-tabs": "../../../static/iviews/tabs/index",
+    "i-tab": "../../../static/iviews/tab/index"
+  }
+}
